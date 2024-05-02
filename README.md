@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
       <img src="https://i.hizliresim.com/5k3ul9u.png" alt="Project Banner">
     </a>
   <br />
